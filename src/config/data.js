@@ -4,7 +4,7 @@ export const blogList = [
     title: '7 CSS tools you should be using ',
     category: 'development',
     subCategory: ['frontend', 'ui/ux', 'design'],
-    url:"https://raw.githubusercontent.com/ljaviertovar/blog-markdown/main/src/tutorials/tutorial1.md",
+    url:"https://raw.githubusercontent.com/CodeNinjaUsman/React-markdown-Blog/main/README.md",
     authorName: 'John Doe',
     authorAvatar: '/assets/images/author.jpg',
     createdAt: 'June 03, 2021',
