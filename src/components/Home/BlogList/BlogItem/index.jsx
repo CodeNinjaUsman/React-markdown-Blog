@@ -20,7 +20,7 @@ const BlogItem = ({
       <Link to={`/blog/${id}`}>
         <img className='blogItem-cover' src={cover} alt='cover' />
       </Link>
-      <Chip label={category} />
+//       <Chip label={category} />
       <h3>{title}</h3>
       <footer>
       </footer>
