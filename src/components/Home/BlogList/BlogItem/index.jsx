@@ -23,11 +23,6 @@ const BlogItem = ({
       <Chip label={category} />
       <h3>{title}</h3>
       <footer>
-        <div className='blogItem-author'>
-          <div>
-            <p>{createdAt}</p>
-          </div>
-        </div>
       </footer>
     </div>
   );
